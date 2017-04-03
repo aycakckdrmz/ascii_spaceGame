@@ -15,7 +15,7 @@ as a point of referans in my history :)
 #### versions of Raspberry. 
 #
 #### Coolest part about this project is that the graphics ONLY
-#### consist of ASCII Character, all designed out by hand. 
+#### consist of ASCII Characters, all designed out by hand. 
 #
 Project has bugs and missing one of the goal feauture intended,
 (`checklist.txt`) due to deadline that came sooner than 

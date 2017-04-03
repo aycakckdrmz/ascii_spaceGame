@@ -1,0 +1,27 @@
+-----Project To-Do List-----
+
+To install SDL:
+
+apt-get install libsdl2-dev
+
+compiler flags = g++ *.cpp -lSDL2
+
+MAJOR STUFF
+
+1. Get SDL set up and create a working window. [x]
+
+2. Create a system for loading images. [x]
+
+3. Create a system for moving images around. [x]
+
+4. Create a system for collision checking. [x]
+
+OTHER STUFF
+
+1. Shooting [x]
+
+2. Make the enemies move left across the screen [x]
+
+3. Cool menu bar that shows health and points [x] 
+
+4. Sound effects [ ] —not implemented

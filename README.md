@@ -25,8 +25,10 @@ expected. :)
 
    
 ----------------------------------------------------------------
-** Here is the poster of the project for the Undergraduate Research Day:
-*
+** The poster of the project for the Undergraduate Research Day:
+
 ![alt text](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=5OwDfgxDb38c9sLyIpgsKmdk02s%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3TrLcbcLbumuV5Een8clFUyfvL6E2HpD8C4fY3sddgk3pTgJo27dA4BYBI3iSdF_NQ8 "ASCII Space Game Poster")
-*
+
 ----------------------------------------------------------------
+
+#whooComputers!! \o/ 
